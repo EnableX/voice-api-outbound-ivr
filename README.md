@@ -1,6 +1,6 @@
-# **Basic Client Examples to demonstrate Outbound Calls using Enablex Voice APIs. **
-This example contains instructions how users can initiate Outbound Calls.
+# Initiating Outbound IVR Calls with EnableX Programmable Voice APIs: Step-by-Step Guide
 
+Learn how to initiate outbound calls using EnableX Programmable Voice APIs with this step-by-step guide. Clone the repository, set up essential environment variables, and configure webhooks for event notifications. Secure your application with SSL certificates, whether self-signed or registered. Launch the client application script effortlessly to start making outbound calls. Streamline your outbound call process with EnableX Programmable Voice APIs and take your communication to the next level.
 
 ## Pre-requisite
 - You will need Enablex Application credentials, APP ID and APP KEY. To find credentials, register with EnableX (https://portal.enablex.io/cpaas/trial-sign-up/).
